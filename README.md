@@ -1,28 +1,27 @@
-Hi, I'm Shaheen 👋
+# Shahinur Rahman Shahin (Shaheen)
+## Junior MERN Stack Developer
 
-🚀 Passionate MERN Stack Developer | React | Next.js | TypeScript  
-🌍 Open to Remote & Local Fullstack Opportunities
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=flat)](your-link)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat)](your-link)
 
-I build scalable, responsive web apps with clean code and modern UI. Always learning, collaborating, and solving real-world challenges.
+### 👨‍💻 About Me
+Passionate MERN developer specializing in React and Node.js applications. Currently building production-ready projects while learning TypeScript and modern web practices.
 
----
+### 🛠 Tech Stack
+**Core:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-💻 Tech Stack:
-React | Next.js | TypeScript | Tailwind CSS | Node.js | Express | MongoDB
+**Others:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss)
 
----
+### 🚀 Projects
+- **NextSocial** - Fullstack social platform • [Live Demo](#) • [Code](#)  
+- **AuthSecure** - JWT authentication system • [Code](#)  
+- **TaskFlow** - Productivity manager • [Live Demo](#)  
 
-🌟 Featured Projects:
-✅ **Next Social** — Fullstack Social Media App [Live](#) | [Code](#)  
-✅ **MERN Auth System** — Secure Auth with JWT & Bcrypt [Live](#) | [Code](#)  
-✅ **Task Manager** — CRUD App with Filter Features [Live](#) | [Code](#)  
-
----
-
-🎯 Looking for:
-- Remote or On-site Fullstack/MERN Developer Roles  
-- Exciting Projects in Bangladesh or Global Markets  
-- Collaboration & Real-World Problem Solving  
-
-🌐 [Portfolio](#) | [LinkedIn](#)
+📫 **Reach me:** @mrahshu111 | email@example.com
 
