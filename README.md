@@ -23,5 +23,5 @@ Passionate MERN developer specializing in React and Node.js applications. Curren
 - **AuthSecure** - JWT authentication system • [Code](#)  
 - **TaskFlow** - Productivity manager • [Live Demo](#)  
 
-📫 **Reach me:** @mrahshu111 | email@example.com
+📫 **Reach me:** @srshahin111 | srshahin111@gmail.com
 
