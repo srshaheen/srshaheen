@@ -1,5 +1,5 @@
 # Shahinur Rahman Shahin (Shaheen)
-## Junior MERN Stack Developer
+## MERN Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=flat)](your-link)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat)](your-link)
